@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.nixuge.savescreenshotcoordinates.mixins",
+  "refmap": "refmap.savescreenshotcoordinates.json",
+  "mixins": [],
+  "client": [
+    "MixinScreenshot"
+  ],
+  "server": []
+}
